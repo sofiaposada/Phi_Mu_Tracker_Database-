@@ -1,1 +1,0 @@
-SELECT * FROM phi_mu_tracker.points;
